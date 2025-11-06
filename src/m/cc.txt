@@ -1,0 +1,68 @@
+create a workplan for the social media analytics research proposal with tasks in (i)  just like the one below in (ii) 
+
+
+i
+
+📌 Task Titles Used
+Timeline	Updated Task Title
+Weeks 1–4	Literature Review & Requirements Gathering
+Weeks 5–8	System Design & Architecture Development
+Weeks 9–14	Data Collection & Processing Implementation
+Weeks 15–20	Dashboard UI & Visualization Development
+Weeks 21–24	Pilot Testing & User Feedback
+Weeks 25–28	Refinement, Evaluation & Final Submission
+
+
+
+
+ii
+10.0 WORKPLAN 
+Design and implementation of the Traffic infraction 
+detection system web based interface 
+Creating a detailed work plan for a traffic infraction detection system involves several stages 
+including literature surveys, modeling, review, analysis, design, testing, reporting, and 
+thesis/project writing.  
+Work Plan for Traffic Infraction Detection System: 
+1. Literature Surveys: 
+❖ Conduct an extensive review of existing literature on traffic infraction detection, vehicle 
+number plate recognition, object detection, and related areas 
+2. Modeling and Algorithm Design: 
+❖ Select appropriate algorithms for traffic infraction detection and vehicle number plate 
+recognition. 
+3. Implementation : 
+❖ Implement the designed system and algorithms using Python and OpenCV. 
+4. Testing : 
+❖ Conduct rigorous testing to evaluate the system's performance, accuracy, and efficiency. 
+❖ Address any identified issues or bugs. 
+5. Deploy the system : 
+❖ This is the stage where the system if ready to be used and to evaluate its performance. This 
+can be done manually reviewing the detection results or using metrics such as accuracy, 
+precision and recall.  
+6. Documentation: 
+❖ Write chapters for the preject, including introduction, literature review, methodology, 
+implementation details, results, discussion, and conclusion. 
+TASK TABLE 
+ACTIVITY 
+NUMBER OF DAYS 
+Initial Date 
+Literature surveys 
+20 
+1/08/2023 
+Modeling and Algorithm Design 
+30 
+20/08/2023 
+Implementation 
+40 
+19/09/2023 
+Testing 
+15 
+30/10/2023 
+Deploy the system 
+10 
+15/11/2023 
+Documentation 
+115 
+25/11/2023 
+
+
+

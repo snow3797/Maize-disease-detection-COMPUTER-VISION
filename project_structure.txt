@@ -1,0 +1,22 @@
+maize-disease-project/
+├── data/ # your images: organized by class subfolders
+│ ├── Common_Rust/
+│ ├── Leaf_Spot/
+│ ├── Maize_Leaf_Blight/
+│ └── Healthy/
+├── models/
+│ ├── cnn_model.h5
+│ └── classical_model.joblib
+├── artifacts/
+│ └── label_encoder.joblib
+├── notebooks/ # optional: jupyter notebooks
+├── src/
+│ ├── utils.py
+│ ├── feature_extraction.py
+│ ├── deep_features.py
+│ ├── train_classical.py
+│ ├── train_cnn.py
+│ ├── evaluate.py
+│ └── api.py
+├── requirements.txt
+└── README.md
